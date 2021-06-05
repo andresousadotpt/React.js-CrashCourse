@@ -1,0 +1,24 @@
+{
+  "name": "React.js-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresousa23/React.js-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresousa23/React.js-Test/issues"
+  },
+  "homepage": "https://github.com/andresousa23/React.js-Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
